@@ -1,0 +1,21 @@
+.header {
+  background-color: #ff0;
+height: 40px;
+color: #fff;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  border-bottom: solid;
+}
+
+.main {
+  line-height: 40px;
+}
+
+.main-text p {
+  line-height: 400px;
+}
